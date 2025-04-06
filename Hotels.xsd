@@ -31,9 +31,9 @@
 	</element>
 	<element name="Name" type="string"/>
 	<element name="Phone" type="string"/>
-	<element name="Number" type="string"/>
+	<element name="Number" type="integer"/>
 	<element name="Street" type="string"/>
 	<element name="City" type="string"/>
 	<element name="State" type="string"/>
-	<element name="Zip" type="string"/>
+	<element name="Zip" type="integer"/>
 </schema>
