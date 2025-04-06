@@ -4,12 +4,123 @@
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E. 7th St</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.7">
+		<Name>Best Western Seven Seas</Name>
+		<Phone>619-291-1300</Phone>
+		<Address NearstAirport="San Diego International Airport">
+			<Number>411</Number>
+			<Street>Hotel Cir S</Street>
+			<City>San Diego</City>
+			<State>CA</State>
+			<Zip>92108</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Wingate</Name>
+		<Phone>407-801-6394</Phone>
+		<Address NearstAirport="Orlando International Airport">
+			<Number>5750</Number>
+			<Street>Hazeltine National Dr</Street>
+			<City>Orlando</City>
+			<State>FL</State>
+			<Zip>32822</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.0">
+		<Name>La Quinta</Name>
+		<Phone>602-834-7302</Phone>
+		<Phone>800-753-3657</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>4929</Number>
+			<Street>W McDowell Rd</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85035</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Talking Stick</Name>
+		<Phone>480-850-7777</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>9800</Number>
+			<Street>Talking Stick Way</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85256</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>The Boho Buffalo Inn</Name>
+		<Phone>307-217-3387</Phone>
+		<Address NearstAirport="Johnson County Airport">
+			<Number>313</Number>
+			<Street>N Main St</Street>
+			<City>Buffalo</City>
+			<State>WY</State>
+			<Zip>82834</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.4">
+		<Name>Hampton Inn</Name>
+		<Phone>614-552-2400</Phone>
+		<Address NearstAirport="John Glenn Columbus International Airport">
+			<Number>2093</Number>
+			<Street>S Hamilton Rd</Street>
+			<City>Columbus</City>
+			<State>OH</State>
+			<Zip>43232</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.7">
+		<Name>Super 8</Name>
+		<Phone>847-264-4408</Phone>
+		<Address NearstAirport="Chicago O'Hare International Airport">
+			<Number>2951</Number>
+			<Street>Touhy Ave</Street>
+			<City>Elk Grove Village</City>
+			<State>IL</State>
+			<Zip>60007</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Home2 Suites</Name>
+		<Phone>610-735-2200</Phone>
+		<Address NearstAirport="Lehigh Valley International Airport">
+			<Number>2011</Number>
+			<Street>City Line Rd</Street>
+			<City>Bethlehem</City>
+			<State>PA</State>
+			<Zip>18017</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>Wyndham Riverfront Little Rock</Name>
+		<Phone>501-371-9000</Phone>
+		<Address NearstAirport="Bill and Hillary Clinton National Airport">
+			<Number>2</Number>
+			<Street>Riverfront Pl</Street>
+			<City>North Little Rock</City>
+			<State>AR</State>
+			<Zip>72114</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>Hilltop Inn</Name>
+		<Phone>406-245-5000</Phone>
+		<Address NearstAirport="Billings-Logan International Airport">
+			<Number>1116</Number>
+			<Street>N Broadway</Street>
+			<City>Billings</City>
+			<State>MT</State>
+			<Zip>59101</Zip>
 		</Address>
 	</Hotel>
 </Hotels>
